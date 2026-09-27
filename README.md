@@ -64,3 +64,18 @@ Hands-on system programming using Linux system calls, processes, IPC and multith
 * Debugging & Problem Solving
 
 ## 🎯 Currently Learning
+
+* Advanced C Programming
+* Embedded Systems & Firmware Development
+* Microcontrollers & Peripheral Interfacing
+* Linux Internals
+* Networking & System Programming
+* RTOS Concepts
+
+## 📫 Connect With Me
+
+* [GitHub](https://github.com/ShubhamShivpujimath)
+* [LinkedIn](https://linkedin.com/in/shubham-shivapujimath-063b79208)
+
+I'm interested in opportunities and freelance projects involving **C, Embedded Systems, Firmware, and Linux System Programming**.
+
